@@ -14,4 +14,4 @@ Public water system IDs and info are here:
 
 https://data.ca.gov/dataset/drinking-water-public-water-system-information
 
-The project will not aim to CHANGE the reporting requirements specified in teh regulations but to firts built a common data model for this data, then a schema and standards to help build a digital service.
+The project will not aim to CHANGE the reporting requirements specified in the regulations but to first build a common data model for this data, then a schema and standards to help build a digital service.  In addition to establishing a common data format this project may be able to improve the data quality and collection process.
