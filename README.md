@@ -1,4 +1,4 @@
-Consumer COnfidence Reports (CCRs) are required for both large and small public water systems in CA.
+This project aims to standardize the data collection (anf thereby the reporting out of this information) for Consumer Confidence Reports (CCRs), which are required for both large and small public water systems in CA.
 
 https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/CCR.html 
 
